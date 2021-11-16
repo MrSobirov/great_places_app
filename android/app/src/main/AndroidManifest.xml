@@ -4,8 +4,8 @@
     <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
     <uses-permission android:name="android.permission.ACCESS_BACKGROUND_LOCATION"/>
    <application
-        android:label="great_places"
-        android:icon="@mipmap/ic_launcher">
+        android:label="Great PLaces"
+        android:icon="@mipmap/launcher_icon">
        <meta-data android:name="com.google.android.geo.API_KEY"
            android:value="AIzaSyDqi7bKP3g9JfR7e9m9BtitFJCtDwnk84s"/>
         <activity
